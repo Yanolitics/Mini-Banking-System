@@ -45,7 +45,8 @@ The script follows a structured banking flow:
 ---
 
 ### OUTPUT
-*(Include screenshot of terminal execution here)*
+<img width="513" height="546" alt="Screenshot 2026-09-09 160526" src="https://github.com/user-attachments/assets/f6f9511e-ce3e-4e08-9c37-34bedb3dc13b" />
+
 
 ---
 
